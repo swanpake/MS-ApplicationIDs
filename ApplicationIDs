@@ -24,17 +24,19 @@ a57aca87-cbc0-4f3c-8b9e-dc095fdc8978,IAM Supportability
 16aeb910-ce68-41d1-9ac3-9e1673ac9575,IrisSelectionFrontDoor
 d73f4b35-55c9-48c7-8b10-651f6f2acb2e,MCAPI Authorization Prod
 944f0bd1-117b-4b1c-af26-804ed95e767e,Media Analysis and Transformation Service
-0000000c-0000-0000-c000-000000000000,Microsoft App Access Panel
-65d91a3d-ab74-42e6-8a2f-0add61688c74,Microsoft Approval Management
-29d9ed98-a469-4536-ade2-f981bc1d605e,Microsoft Authentication Broker
-04b07795-8ddb-461a-bbee-02f9e1bf7b46,Microsoft Azure CLI
-1950a258-227b-4e31-a9cf-717495945fc2,Microsoft Azure PowerShell
-0000001a-0000-0000-c000-000000000000,MicrosoftAzureActiveAuthn
-cf36b471-5b44-428c-9ce7-313bf84528de,Microsoft Bing Search
-2d7f3606-b07d-41d1-b9d2-0d0c9296a6e8,Microsoft Bing Search for Microsoft Edge
-1786c5ed-9644-47b2-8aa0-7201292175b6,Microsoft Bing Default Search Engine
-3090ab82-f1c1-4cdf-af2c-5d7a6f3e2cc7,Microsoft Defender for Cloud Apps
-60ca1954-583c-4d1f-86de-39d835f3e452,Microsoft Defender for Identity (formerly Radius Aad Syncer)
+0cd196ee-71bf-4fd6-a57c-b491ffd4fb1e,Microsoft 365 Security and Compliance Center
+80ccca67-54bd-44ab-8625-4b79c4dc7775,Microsoft 365 Support Service
+ee272b19-4411-433f-8f28-5c13cb6fd407,Microsoft App Access Panel
+0000000c-0000-0000-c000-000000000000,Microsoft Approval Management
+65d91a3d-ab74-42e6-8a2f-0add61688c74,Microsoft Authentication Broker
+29d9ed98-a469-4536-ade2-f981bc1d605e,Microsoft Azure CLI
+04b07795-8ddb-461a-bbee-02f9e1bf7b46,Microsoft Azure PowerShell
+1950a258-227b-4e31-a9cf-717495945fc2,MicrosoftAzureActiveAuthn
+0000001a-0000-0000-c000-000000000000,Microsoft Bing Search
+cf36b471-5b44-428c-9ce7-313bf84528de,Microsoft Bing Search for Microsoft Edge
+2d7f3606-b07d-41d1-b9d2-0d0c9296a6e8,Microsoft Bing Default Search Engine
+1786c5ed-9644-47b2-8aa0-7201292175b6,Microsoft Defender for Cloud Apps
+3090ab82-f1c1-4cdf-af2c-5d7a6f3e2cc7,Microsoft Defender for Identity (formerly Radius Aad Syncer)
 18fbca16-2224-45f6-85b0-f7bf2b39b3f3,Microsoft Docs
 00000015-0000-0000-c000-000000000000,Microsoft Dynamics ERP
 6253bca8-faf2-4587-8f2f-b056d80998a7,Microsoft Edge Insider Addons Prod
@@ -67,6 +69,25 @@ dfe74da8-9279-44ec-8fb2-2aed9e1c73d0,O365 SkypeSpaces Ingestion Service
 00b41c95-dab0-4487-9791-b9d2c32c80f2,Office 365 Management
 66a88757-258c-4c72-893c-3e8bed4d6899,Office 365 Search Service
 00000003-0000-0ff1-ce00-000000000000,Office 365 SharePoint Online
-94c63fef-13a3-47bc-8074-75af8c65887a,Office Delve
-93d53678-613d-4013-afc1-62e9e444a0a5,Office Online Add-in SSO
-4b233688-031c-404b-9a80-a4f370ed8916,Office Online Data loss prevention
+94c63fef-13a3-47bc-8b0d-cdf1b9b06d21,Office 365 Teams Service
+ba80da77-cb56-4b85-a823-dbb0f70a1b71,Office 365 Threat Intelligence
+118ebdb8-074f-471b-b3ea-d11878a1f7b1,OneDrive for Business
+98d5d1de-f99e-42ac-9a88-634b616db04f,Power Automate
+00000009-0000-0000-c000-000000000000,Power Apps
+85c4431a-89a3-4a68-85a6-4ca90a3e6e5d,Power BI
+2bb8f64d-b0b7-4695-9f9b-14f6ed0ab801,Power Virtual Agents
+a1e0e6a0-3453-4333-9791-d4b4e85c9cd6,SearchIndexService
+f7c4ff23-3fe6-4173-8700-4c96c315c1d6,Security Center
+7e3b47c8-5e42-49fd-b7d0-c4c4477a0b72,Security Investigator
+07b70d60-9092-4ba1-8f34-e8c028c7b960,SentinelOne Management API
+bf22f72a-cce3-4e9c-a2db-3b11ee6346bb,SharePoint Online
+a2ad68d9-2b89-474e-a6a0-1b23e6875459,Skype for Business
+e0a6b2b8-07b7-40ea-8fa0-f60d31b9b5d6,Teams Custom Apps
+a29d3f9d-b1a5-4bfc-bf9e-49a3c1b8d52b,Teams Enterprise Apps
+1d8eebf6-8b0e-4ffb-8d91-e96aebc05b1b,Teams Meeting Experiences
+c177bb3b-e82f-45bb-a687-b93f9e84ef07,Teams Phone
+cb43a730-dc9a-4604-9056-c560eb0a028e,Teams Services
+6be809eb-73c6-46e1-bb99-84f722ca0ad0,Teams Site
+f8b2d25f-9f7e-4c9b-8417-b4c0b8285f4e,Teams Supportability
+e3cf58c5-37f7-44c4-a4a1-b0593fce8b4d,Teams Web App
+fe576b6c-59cc-448d-99a7-c0415f4b05f8,User Activity API
